@@ -38,6 +38,9 @@ align-items: center;
 .cast_crew ul li a:hover{
 text-decoration: underline;
 }
+span.responsive-button__text {
+    margin-left: 5px;
+}
 ul.heading-list.list-unstyled {
     font-size: 0.875rem;
 }
